@@ -1,0 +1,106 @@
+{
+ "lives": [
+    {
+     "name": "🎞️┃Jack直播",
+     "type":0,
+     "url":"https://php.946985.filegear-sg.me/jackTV.m3u",
+     "ua": "",
+     "timeout": 10,
+     "playerType": 2
+     },
+      {
+    	"name": "🐰┃港澳直播",
+      "type": 0,
+      "url":"https://tv.iill.top/m3u/MyTV",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 10
+     },
+     {
+     "name": "🍋┃电视直播",
+     "type":0,
+     "url": "https://tv.iill.top/m3u/Gather",
+     "ua": "okhttp/1.1.1",
+     "timeout": 10,
+     "playerType": 2
+     },
+     {
+      "name": "🐹┃日后港澳",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 10
+    },
+      {
+     "name": "🐠┃冰茶揾定",
+     "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dbingcha1130%26json%3Dtrue",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+    {
+      "name": "🐱┃风云直播",
+      "type": 0,
+      "url":"http://rihou.cc:555/ggg.nzk",
+      "playerType": 2,
+      "ua": "judy/5.2.1",
+      "timeout": 10
+    },  
+      {
+      "name": "🥎┃体育直播",
+      "type": 0,
+      "url": "https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/main/beesports.m3u",
+      "ua": "Goiptv/8.8.8",
+      "playerType": 2,
+      "timeout": 10
+     },
+       {
+      "name": "🍋┃欧华直播",
+      "type": 0,
+      "url": "https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u",
+      "ua": "Goiptv/8.8.8",
+      "playerType": 2,
+      "timeout": 10
+     },
+        {
+      "name": "🏐┃日后港澳",
+      "url":"https://jacktvbot.946985.filegear-sg.me/get.php?username=tg_z5xsf3hn&password=y9dl22v96tbw&type=m3u_plus",
+      "playerType": 2,
+      "ua": "okhttp/3.1.8",
+      "timeout": 10
+    },
+      {
+      "name": "🏀┃AI直播",
+      "type": 0,
+      "url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "🥇️┃Mytv直播",
+      "type": 0,
+      "url":"https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "Goiptv/8.8.8"
+    },
+    {
+      "name": "🏉┃港台揾定",
+      "url":"https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B8%AF%E5%8F%B0%E5%A4%A7%E9%99%86%E9%A2%91%E9%81%93",
+      "playerType": 2,
+      "ua": "",
+      "timeout": 10
+    },
+    {
+      "name": "🍍┃肥羊轮播",
+      "type": 0,
+      "url": "https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "Goiptv/8.8.8"
+    }
+  ]
+}
