@@ -1,7 +1,7 @@
 {
  "lives": [
      {
-    "name": "🎞️┃Jack直播",
+     "name": "🎞️┃Jack直播",
      "type":0,
      "url":"https://php.946985.filegear-sg.me/jackTV.m3u",
      "ua": "",
@@ -56,17 +56,17 @@
       "timeout": 10
     },  
       {
-      "name": "🥎┃体育直播",
+      "name": "🥎┃易发直播",
       "type": 0,
-      "url": "https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/main/beesports.m3u",
-      "ua": "Goiptv/8.8.8",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "ua": "okHttp",
       "playerType": 2,
       "timeout": 10
      },
        {
       "name": "🍋┃欧华直播",
       "type": 0,
-      "url": "https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u",
+      "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u",
       "ua": "Goiptv/8.8.8",
       "playerType": 2,
       "timeout": 10
@@ -80,27 +80,27 @@
       "ua": "okHttp/Mod-1.4.0.0"
     },
     {
-      "name": "🏵┃Mytv直播",
+      "name": "🏵┃台灣直播",
       "type": 0,
-      "url":"https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/MytvSuper.m3u",
+      "url":"https://gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "Goiptv/8.8.8"
     },
     {
       "name": "🏐┃港台揾定",
-      "url":"https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B8%AF%E5%8F%B0%E5%A4%A7%E9%99%86%E9%A2%91%E9%81%93",
+      "url":"https://cdn.gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B8%AF%E5%8F%B0%E5%A4%A7%E9%99%86",
       "playerType": 2,
       "ua": "",
       "timeout": 10
     },
     {
-      "name": "🍍┃肥羊轮播",
+      "name": "🌺┃裤佬直播",
       "type": 0,
-      "url": "https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u",
+      "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
       "playerType": 2,
       "timeout": 10,
-      "ua": "Goiptv/8.8.8"   
+      "ua": "okHttp"   
     }
   ]
 }
