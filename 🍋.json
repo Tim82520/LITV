@@ -1,60 +1,28 @@
 {
  "lives": [
      {
-     "name": "🎞️┃Jack直播",
+     "name": "🍋┃Jack港台",
      "type":0,
-     "url":"https://php.946985.filegear-sg.me/jackTV.m3u",
-     "ua": "",
+     "url":"https://smart.946985.filegear-sg.me/sub.php?user=tgyoyo82520",
+     "ua":"goiptv/8.8.8",
      "timeout": 10,
      "playerType": 2
      },
      {
-      "name": "🏉┃Jack港澳",
-      "url":"https://www.go-iptv.ggff.net/sub.php?user=zpweiMErSGs4AIQgSh7QW3Nz",
-      "ua": "",
-      "playerType": 2,
-      "timeout": 10
-    },
-      {
-    	"name": "🐰┃港澳直播",
-      "type": 0,
-      "url":"https://tv.iill.top/m3u/MyTV",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "timeout": 10
-     },
-     {
-     "name": "🍋┃电视直播",
-     "type":0,
-     "url": "https://tv.iill.top/m3u/Gather",
-     "ua": "okhttp/1.1.1",
-     "timeout": 10,
-     "playerType": 2
-     },
-     {
-      "name": "🐹┃日后港澳",
+      "name": "🍏┃日后港澳",
       "type": 0,
       "url": "http://rihou.cc:555/gggg.nzk",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "timeout": 10
-    },
+     },
       {
-     "name": "🐠┃冰茶揾定",
-     "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dbingcha1130%26json%3Dtrue",
+      "name": "🥭┃港台大陆",
+      "url":"https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容",
       "playerType": 2,
-      "timeout": 10,
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
-    },
-    {
-      "name": "🐱┃风云直播",
-      "type": 0,
-      "url":"http://rihou.cc:555/ggg.nzk",
-      "playerType": 2,
-      "ua": "judy/5.2.1",
+      "ua": "",
       "timeout": 10
-    },  
+    },
       {
       "name": "🥎┃易发直播",
       "type": 0,
@@ -63,41 +31,91 @@
       "playerType": 2,
       "timeout": 10
      },
-       {
-      "name": "🍋┃欧华直播",
+      {
+      "name": "🏀┃AI直播",
       "type": 0,
-      "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u",
-      "ua": "Goiptv/8.8.8",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://ds65.tv1288.xyz",
+      "playerType": 2,
+      "timeout": 10
+      },
+       {
+       "name": "🍊┃台灣直播",
+       "type": 0,
+       "ua": "okhttp",
+       "url": "https://iptv.852851.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u",
+       "timeout": 10,
+       "playerType": 2
+     },
+     {
+     "name": "🎞️┃Jack直播",
+     "type":0,
+     "url":"https://php.946985.filegear-sg.me/jackTV.m3u",
+     "ua":"goiptv/8.8.8",
+     "timeout": 10,
+     "playerType": 2
+     },
+     {
+      "name": "🏉┃Jack港澳",
+      "type": 0,
+      "url":"https://iptv.852851.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u",
+      "ua":"goiptv/8.8.8",
       "playerType": 2,
       "timeout": 10
      },
       {
-      "name": "🏀┃AI直播",
+      "name": "🍎┃Jack电视",
       "type": 0,
-      "url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
-    },
+      "ua":"goiptv/8.8.8",
+      "url": "https://php.946985.filegear-sg.me/test.m3u"
+     },
     {
-      "name": "🏵┃台灣直播",
+    	"name": "🐰┃港澳直播",
       "type": 0,
-      "url":"https://gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u",
+      "url":"https://iptv.yang-1989.eu.org/m3u/myTV.m3u",
       "playerType": 2,
-      "timeout": 10,
-      "ua": "Goiptv/8.8.8"
-    },
+      "ua": "okhttp/3.8.1",
+      "timeout": 10
+     },
+     {
+     "name": "🍍┃电视直播",
+     "type":0,
+     "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u",
+     "ua": "okhttp/3.8.1",
+     "timeout": 10,
+     "playerType": 2
+     },
+
     {
-      "name": "🏐┃港台揾定",
-      "url":"https://cdn.gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B8%AF%E5%8F%B0%E5%A4%A7%E9%99%86",
+      "name": "🏐┃港澳台🔞",
+      "url":"https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B8%AF%E5%8F%B0%E5%A4%A7%E9%99%86",
+      "playerType": 2,
+      "ua": "",
+      "timeout": 10
+    },
+     {
+      "name": "🍋┃新时代🔞",
+      "url":"https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E5%AE%89%E5%8D%9A",
       "playerType": 2,
       "ua": "",
       "timeout": 10
     },
     {
-      "name": "🌺┃裤佬直播",
+      "name": "🍓┃亚麻蝶🔞",
       "type": 0,
-      "url": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+      "ua": "okhttp",
+      "url": "https://xoxo.cn.mt/Lonely.m3u"
+     }, 
+      {
+      "name": "🍑┃视频蝶🔞",
+      "url":"https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx%E8%A7%86%E9%A2%91%E8%B5%84%E6%BA%90",
+      "playerType": 2,
+      "ua": "",
+      "timeout": 10
+    },
+    {
+      "name": "🍇┃裤佬直播",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp"   
